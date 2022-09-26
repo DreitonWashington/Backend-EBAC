@@ -1,0 +1,21 @@
+Início
+	1 Ouço o alarme tocando
+	2 Viro meu corpo em direção ao celular
+	3 Se Desligo o alarme
+		1 Fico mais 2 minutos deitado de forma consciente
+		2 abro os olhos
+		3 levanto da cama e vou para o banheiro
+		4 Lavo o rosto e pego a escova
+		5 Coloco pasta na escova
+		6 Escovo os dentes
+		7 Saio do banheiro e vou aproveitar o dia 
+	4 Se não desligo o alarme
+		1 Espero tocar denovo
+		2 Desligo o alarme
+		3 abro os olhos
+		4 levanto da cama e vou para o banheiro
+		5 Lavo o rosto e pego a escova
+		6 Coloco pasta na escova
+		7 Escovo os dentes
+		8 Saio do banheiro e vou aproveitar o dia 
+Fim
