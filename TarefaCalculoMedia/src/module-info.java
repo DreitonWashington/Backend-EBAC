@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dreit
+ *
+ */
+module TarefaCalculoMedia {
+}
